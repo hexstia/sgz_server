@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="node" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://D:/Downloads/node-v14.13.1-win-x64/node-v14.13.1-win-x64/node-v14.13.1" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/Downloads/node-v14.13.1-win-x64/node-v14.13.1-win-x64/node-v14.13.1" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
